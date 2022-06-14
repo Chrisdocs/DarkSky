@@ -1,0 +1,33 @@
+.nav {
+    display: flex;
+    min-height: 56px;
+    align-items: center;
+    background-color: black;
+}
+
+.logo {
+    height: 60px;
+    padding: 5px;
+}
+
+.item {
+    font-size: 20px;
+    color: white;
+    padding: 16px;
+    display: inline-block;
+}
+
+.left, .middle, .right {
+    flex: 1;
+}
+
+.left {
+}
+
+.middle {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
