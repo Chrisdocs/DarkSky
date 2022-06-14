@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/DarkSky/static/css/main.9f1ed505.css",
-    "main.js": "/DarkSky/static/js/main.ea4a61be.js",
-    "static/js/787.28cb0dcd.chunk.js": "/DarkSky/static/js/787.28cb0dcd.chunk.js",
-    "static/media/DSlogo.png": "/DarkSky/static/media/DSlogo.d9a5a25f5a50eaf92bef.png",
-    "index.html": "/DarkSky/index.html",
-    "main.9f1ed505.css.map": "/DarkSky/static/css/main.9f1ed505.css.map",
-    "main.ea4a61be.js.map": "/DarkSky/static/js/main.ea4a61be.js.map",
-    "787.28cb0dcd.chunk.js.map": "/DarkSky/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/darksky/static/css/main.9f1ed505.css",
+    "main.js": "/darksky/static/js/main.243010a0.js",
+    "static/js/787.28cb0dcd.chunk.js": "/darksky/static/js/787.28cb0dcd.chunk.js",
+    "static/media/DSlogo.png": "/darksky/static/media/DSlogo.d9a5a25f5a50eaf92bef.png",
+    "index.html": "/darksky/index.html",
+    "main.9f1ed505.css.map": "/darksky/static/css/main.9f1ed505.css.map",
+    "main.243010a0.js.map": "/darksky/static/js/main.243010a0.js.map",
+    "787.28cb0dcd.chunk.js.map": "/darksky/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9f1ed505.css",
-    "static/js/main.ea4a61be.js"
+    "static/js/main.243010a0.js"
   ]
 }
