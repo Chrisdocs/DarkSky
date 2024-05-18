@@ -31,11 +31,10 @@ const App = () => {
         <About />
       </div>
 
-      <div className="flex" id="map-page">
-        <div id='map-div map-page'>
+      <div className="flex map-wrapper" id="map-page">
+        <div id="map-div map-page">
           <MapContainer
             center={CENTER_POINT}
-            minZoom={1}
             zoom={currentZoom}
             scrollWheelZoom={true}
             style={{ height: window.innerHeight, width: window.innerWidth }}

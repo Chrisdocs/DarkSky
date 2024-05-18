@@ -1,8 +1,5 @@
 import {
-  LayerGroup,
-  LayersControl,
   Marker,
-  Tooltip,
   TileLayer,
   Popup,
 } from "react-leaflet";
@@ -16,7 +13,7 @@ const Map = ({ zoom, coords }) => {
   return (
     <div>
 
-        <TileLayer url="tiles/{z}/{x}/{y}.png" noWrap={true} />
+      <TileLayer url="tiles/{z}/{x}/{y}.png" noWrap={true} />
       
       <Marker position={[-101, 65]} icon={new Icon({
             iconUrl: clearsm,
